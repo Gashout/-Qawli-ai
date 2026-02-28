@@ -1,0 +1,232 @@
+PROMPT FOR BUILDING QAWLI LANDING PAGE
+=======================================
+Copy everything below this line and paste it into Emergent:
+=======================================
+
+Build me a complete bilingual (Arabic + English) landing page for "Qawli قولي" — an AI-powered voice-to-quote system for trade contractors (HVAC, plumbing, electrical, MEP, fit-out) in Saudi Arabia and UAE.
+
+CORE CONCEPT:
+Contractors send a WhatsApp voice note describing a job from the site, and the AI system automatically generates a professional PDF quote with real prices and sends it back within 3 minutes. No typing, no office work, no delay.
+
+BRAND:
+- Name: Qawli قولي
+- Tagline Arabic: "قولي وبس — والعرض جاهز"
+- Tagline English: "Voice in. Quote out. Under 3 minutes."
+- Primary color: #1A73E8 (blue)
+- Secondary color: #0D9488 (teal/green)
+- Dark color: #0F2B46 (navy)
+- Accent: #EA580C (orange)
+- No logo yet — use text "Qawli قولي" as the logo
+
+LANGUAGE REQUIREMENTS:
+- Must be fully bilingual: Arabic (RTL) and English (LTR)
+- Add a language switcher button in the top navigation (AR / EN)
+- Arabic should be the DEFAULT language when the page loads
+- Arabic text must be right-to-left (RTL) with proper alignment
+- Use a clean Arabic-friendly font (like Cairo, Tajawal, or IBM Plex Sans Arabic from Google Fonts)
+- English uses Inter or similar clean sans-serif
+
+TARGET MARKET:
+- Saudi Arabia and UAE contractors
+- Small to mid-size trade companies (10-50 employees)
+- HVAC, plumbing, electrical, MEP, fit-out, painting, roofing
+- These are tradespeople, not tech people — keep language simple and direct
+
+PAGE STRUCTURE (single-page, scrolling):
+
+SECTION 1 — HERO
+Arabic:
+- Headline: "وقف عن كتابة العروض. ابدأ تتكلم."
+- Subheadline: "أرسل رسالة صوتية على الواتساب. يوصلك عرض سعر احترافي PDF خلال ٣ دقائق."
+- CTA button: "اطلب تجربة مجانية" (links to WhatsApp)
+- Secondary CTA: "شوف كيف يشتغل" (scrolls to How It Works section)
+
+English:
+- Headline: "Stop typing quotes. Start talking."
+- Subheadline: "Send a WhatsApp voice note describing the job. Get a professional PDF quote back in under 3 minutes."
+- CTA button: "Request a Free Demo" (links to WhatsApp)
+- Secondary CTA: "See How It Works" (scrolls to How It Works section)
+
+Design: Dark navy background (#0F2B46). Large bold headline. Phone mockup showing a WhatsApp conversation with a voice note and a PDF reply (can be illustrated or placeholder). WhatsApp icon visible.
+
+SECTION 2 — THE PROBLEM
+Arabic:
+- Headline: "كم ساعة تضيع كل يوم في كتابة العروض؟"
+- 3 stat cards:
+  Card 1: "٢-٣ ساعات" / "تضيع كل مساء في كتابة العروض"
+  Card 2: "١٥-٢٠٪" / "إيرادات ضائعة بسبب بنود منسية"
+  Card 3: "صفر" / "رؤية للمدير على العروض المرسلة"
+- Quote: "ما صرت فني تكييف عشان أقعد بالليل أكتب عروض بالإكسل."
+
+English:
+- Headline: "How many hours do you waste every day typing quotes?"
+- 3 stat cards:
+  Card 1: "2-3 hours" / "wasted every evening typing quotes"
+  Card 2: "15-20%" / "revenue lost from forgotten line items"
+  Card 3: "Zero" / "visibility for the boss on what's being quoted"
+- Quote: "I didn't become a technician to spend my nights typing in Excel."
+
+Design: Light background. Cards with icons (clock, money, eye). Red accent for the numbers.
+
+SECTION 3 — HOW IT WORKS
+Arabic:
+- Headline: "كيف يشتغل؟"
+- 4 steps right-to-left:
+  Step 1: "تتكلم" / "أرسل رسالة صوتية على الواتساب من الموقع"
+  Step 2: "الذكاء يفهم" / "يستخرج كل بند وكمية وماركة وتفصيل"
+  Step 3: "ينشئ العرض" / "PDF احترافي بأسعارك وشعارك وشروطك"
+  Step 4: "يوصل فوراً" / "يرجع لك على الواتساب خلال ٣ دقائق"
+- Bottom text: "العميل يستلم العرض قبل ما تطلع من بيته."
+
+English:
+- Headline: "How It Works"
+- 4 steps left-to-right:
+  Step 1: "You Talk" / "Send a WhatsApp voice note describing the job from the site"
+  Step 2: "AI Understands" / "Extracts every item, quantity, brand, and detail"
+  Step 3: "Quote Generated" / "Professional PDF with your prices, your logo, your terms"
+  Step 4: "Delivered Instantly" / "Back on WhatsApp in under 3 minutes"
+- Bottom text: "The customer gets the quote before you leave the property."
+
+Design: White background. 4 cards in a row with numbered circles and icons. Arrows between steps. Green accent.
+
+SECTION 4 — ONE VOICE NOTE, FOUR DOCUMENTS
+Arabic:
+- Headline: "رسالة صوتية واحدة. ٤ مستندات."
+- Subheadline: "كل رسالة صوتية تنشئ ٤ مستندات تلقائياً — بدون أي عمل إضافي."
+- 4 cards:
+  Card 1 (blue): "عرض السعر" / "يشوفه العميل" / "PDF احترافي — شعار، بنود، أسعار، ضريبة، إجمالي، شروط."
+  Card 2 (orange): "تكلفة داخلية" / "المدير فقط" / "سعر التكلفة مقابل سعر البيع. شوف هامش الربح فوراً."
+  Card 3 (purple): "تقرير الزيارة" / "سجلات الشركة" / "سجل كامل لنطاق العمل. ما في ملاحظات ضائعة."
+  Card 4 (teal): "الفاتورة" / "عند موافقة العميل" / "تنشأ تلقائياً من العرض الموافق عليه. صفر إعادة كتابة."
+
+English:
+- Headline: "One Voice Note. Four Documents."
+- Subheadline: "Every voice note generates 4 documents automatically — no extra work."
+- 4 cards:
+  Card 1 (blue): "Customer Quotation" / "Customer sees this" / "Professional PDF — logo, line items, prices, VAT, total, terms."
+  Card 2 (orange): "Cost Breakdown" / "Boss sees this" / "Cost vs sell price per item. See your profit margin instantly."
+  Card 3 (purple): "Site Visit Report" / "Company records" / "Complete record of the job scope. No more lost notes."
+  Card 4 (teal): "Invoice" / "On customer approval" / "Auto-generated from approved quote. Zero retyping."
+
+Design: Light gray background. Color-coded cards with colored top border. Icons for each document type.
+
+SECTION 5 — BEFORE & AFTER COMPARISON
+Arabic:
+- Headline: "الفرق"
+- Comparison table with two columns: "بدون Qawli" (red) vs "مع Qawli" (green)
+  Row 1: وقت إرسال العرض | ٤-٨ ساعات | أقل من ٣ دقائق
+  Row 2: المستندات | ١ (يدوي) | ٤ (تلقائي)
+  Row 3: بنود منسية | شائع | صفر
+  Row 4: رؤية المدير | ما في | لوحة تحكم مباشرة
+  Row 5: هوامش الربح | غير معروفة | واضحة لكل بند
+  Row 6: الفوترة | إعادة كتابة يدوية | تلقائية
+  Row 7: مساء الفني | كتابة لل١٠ ليلاً | في بيته ال٥ عصراً
+
+English:
+- Headline: "The Difference"
+- Same comparison table:
+  Row 1: Time to quote | 4-8 hours | Under 3 minutes
+  Row 2: Documents created | 1 (manually) | 4 (automatically)
+  Row 3: Forgotten items | Common | None
+  Row 4: Boss visibility | None | Real-time dashboard
+  Row 5: Profit margins | Unknown | Visible per item
+  Row 6: Invoicing | Manual retyping | Auto-generated
+  Row 7: Technician's evening | Typing until 10 PM | Home by 5 PM
+
+Design: Clean table. Red background for "without", green for "with". Alternating row shading.
+
+SECTION 6 — WHAT THE BOSS GETS
+Arabic:
+- Headline: "وش يستفيد المدير؟"
+- Subheadline: "لوحة تحكم كاملة لمتابعة كل شي في شركتك."
+- 4 feature cards:
+  "شوف كل عرض" / "كل عروض فريقك أمامك لحظياً"
+  "تتبع الهوامش" / "سعر التكلفة وسعر البيع لكل بند"
+  "تتبع الحالة" / "مرسل، موافق، مرفوض، منتهي"
+  "إدارة الأسعار" / "عدّل قائمة أسعارك أي وقت"
+
+English:
+- Headline: "What the Boss Gets"
+- Subheadline: "A complete dashboard with full visibility into your company's quoting activity."
+- 4 feature cards:
+  "See Every Quote" / "Every quote across all technicians, in real time"
+  "Track Margins" / "Cost vs sell price per item. Know your profit instantly"
+  "Track Status" / "Sent, approved, rejected, expired — at a glance"
+  "Manage Prices" / "Edit your price list anytime. Import from Excel"
+
+Design: White background. Cards with icon circles. Optional: screenshot mockup of dashboard.
+
+SECTION 7 — WHY WHATSAPP
+Arabic:
+- Headline: "ليش واتساب؟"
+- Subheadline: "لأنه المكان اللي تشتغل فيه أصلاً."
+- 4 checkmark points:
+  "ما تحتاج تحمل تطبيق جديد — فريقك عنده واتساب"
+  "ما تحتاج تدريب — هم أصلاً يرسلون رسائل صوتية كل يوم"
+  "يشتغل على أي جوال، حتى بنت ضعيف في الموقع"
+  "فنيك بس يرسل رسالة صوتية لرقم ثاني. بس."
+- 3 stats: "+٢ مليار مستخدم" / "٠ تطبيقات تحملها" / "٠ ثانية تدريب"
+
+English:
+- Same content translated
+- 3 stats: "2B+ users globally" / "0 apps to download" / "0 sec training needed"
+
+Design: Dark navy background. Green checkmarks. Bold stat numbers.
+
+SECTION 8 — WORKS FOR ANY TRADE
+Arabic:
+- Headline: "يشتغل لأي تخصص"
+- 8 trade cards with emojis: تكييف ❄️ / سباكة 🔧 / كهرباء ⚡ / MEP 🏗️ / تشطيبات 🏠 / دهانات 🎨 / أسقف 🏚️ / تنسيق حدائق 🌳
+- Bottom: "أسعارك. شعارك. شروطك. تخصصك."
+
+English:
+- Headline: "Works for Any Trade"
+- Same 8 trades in English
+- Bottom: "Your prices. Your logo. Your terms. Your trade."
+
+Design: Light background. Grid of trade cards with emoji icons.
+
+SECTION 9 — WORKS IN ANY LANGUAGE
+Arabic:
+- Headline: "يشتغل بأي لغة"
+- 4 language cards: عربي (خليجي، مصري، شامي) / إنجليزي (أي لهجة) / هندي/أردو (شائع في مواقع الخليج) / +٥٠ لغة أخرى
+- Info box: "فنيك يقدر يخلط عربي وإنجليزي في نفس الجملة والذكاء يفهم تمام"
+
+English equivalent.
+
+Design: Cards with colored top borders. Blue info box for code-switching.
+
+SECTION 10 — CTA / FOOTER
+Arabic:
+- Large headline: "وقف عن كتابة العروض. ابدأ تتكلم."
+- CTA button: "اطلب تجربة مجانية" (WhatsApp link)
+- WhatsApp number displayed
+- Email: info@qawli.com
+
+English:
+- "Stop typing quotes. Start talking."
+- CTA: "Request a Free Demo"
+
+Footer: Company info, social links, copyright, language switcher.
+
+TECHNICAL REQUIREMENTS:
+- Responsive: must look great on mobile (80%+ of visitors will be on phones)
+- Fast loading: contractors are on job sites with slow connections
+- SEO optimized: meta tags in both Arabic and English
+- WhatsApp CTA: use https://wa.me/PHONENUMBER format (replace PHONENUMBER with actual number later)
+- Smooth scroll animations between sections
+- Language switcher toggles ALL content between Arabic RTL and English LTR
+- Use CSS direction: rtl for Arabic, ltr for English
+- Sticky navigation bar at top
+- Mobile hamburger menu
+
+DESIGN GUIDELINES:
+- Modern, clean, professional — NOT flashy or cluttered
+- Think: Careem, Tamara, Salla — modern Gulf tech company aesthetic
+- Dark hero section, alternating light/dark sections
+- Rounded corners on cards
+- Subtle shadows on cards
+- Bold headlines, clean body text
+- WhatsApp green (#25D366) for WhatsApp-related buttons
+- Icons from Lucide, Heroicons, or Font Awesome
+- Smooth hover effects on buttons and cards
